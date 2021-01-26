@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/game-memory/static/css/main.88be3833.chunk.css",
+    "main.js": "/game-memory/static/js/main.cdd6f046.chunk.js",
+    "main.js.map": "/game-memory/static/js/main.cdd6f046.chunk.js.map",
+    "runtime-main.js": "/game-memory/static/js/runtime-main.8ff0f739.js",
+    "runtime-main.js.map": "/game-memory/static/js/runtime-main.8ff0f739.js.map",
+    "static/js/2.7c98fb3d.chunk.js": "/game-memory/static/js/2.7c98fb3d.chunk.js",
+    "static/js/2.7c98fb3d.chunk.js.map": "/game-memory/static/js/2.7c98fb3d.chunk.js.map",
+    "static/js/3.59dfd2bd.chunk.js": "/game-memory/static/js/3.59dfd2bd.chunk.js",
+    "static/js/3.59dfd2bd.chunk.js.map": "/game-memory/static/js/3.59dfd2bd.chunk.js.map",
+    "index.html": "/game-memory/index.html",
+    "static/css/main.88be3833.chunk.css.map": "/game-memory/static/css/main.88be3833.chunk.css.map",
+    "static/js/2.7c98fb3d.chunk.js.LICENSE.txt": "/game-memory/static/js/2.7c98fb3d.chunk.js.LICENSE.txt",
+    "static/media/anonymous.4717c96d.svg": "/game-memory/static/media/anonymous.4717c96d.svg",
+    "static/media/bender.faecff7d.svg": "/game-memory/static/media/bender.faecff7d.svg",
+    "static/media/billshifr.604eea77.svg": "/game-memory/static/media/billshifr.604eea77.svg",
+    "static/media/general.sass": "/game-memory/static/media/dali.722905bd.jpg",
+    "static/media/deadpool.61c8f56b.svg": "/game-memory/static/media/deadpool.61c8f56b.svg",
+    "static/media/finn.97da1502.svg": "/game-memory/static/media/finn.97da1502.svg",
+    "static/media/gremlin.229a3a1a.svg": "/game-memory/static/media/gremlin.229a3a1a.svg",
+    "static/media/krueger.ced22123.svg": "/game-memory/static/media/krueger.ced22123.svg",
+    "static/media/mario.41824159.svg": "/game-memory/static/media/mario.41824159.svg",
+    "static/media/naruto.8c0c7207.svg": "/game-memory/static/media/naruto.8c0c7207.svg",
+    "static/media/neo.b426d273.svg": "/game-memory/static/media/neo.b426d273.svg",
+    "static/media/puzzle.72534b4d.svg": "/game-memory/static/media/puzzle.72534b4d.svg",
+    "static/media/rick.ab856ea6.svg": "/game-memory/static/media/rick.ab856ea6.svg",
+    "static/media/ring.55e9e579.svg": "/game-memory/static/media/ring.55e9e579.svg",
+    "static/media/simpson.87f8b260.svg": "/game-memory/static/media/simpson.87f8b260.svg",
+    "static/media/stark.09c740a5.svg": "/game-memory/static/media/stark.09c740a5.svg",
+    "static/media/tom.7805aa5d.svg": "/game-memory/static/media/tom.7805aa5d.svg",
+    "static/media/vader.f792e9e8.svg": "/game-memory/static/media/vader.f792e9e8.svg",
+    "static/media/walterwhite.78b1f689.svg": "/game-memory/static/media/walterwhite.78b1f689.svg",
+    "static/media/wolverine.824952ff.svg": "/game-memory/static/media/wolverine.824952ff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff0f739.js",
+    "static/js/2.7c98fb3d.chunk.js",
+    "static/css/main.88be3833.chunk.css",
+    "static/js/main.cdd6f046.chunk.js"
+  ]
+}
