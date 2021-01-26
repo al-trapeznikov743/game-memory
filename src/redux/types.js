@@ -1,0 +1,8 @@
+export const SET_OPEN = 'SET_OPEN'
+export const SET_ACTIVE_ITEM = 'SET_ACTIVE_ITEM'
+export const SET_OPEN_LIST = 'SET_OPEN_LIST'
+export const SET_CLOSING_ITEM = 'SET_CLOSING_ITEM'
+export const SET_TIMER = 'SET_TIMER'
+export const SET_START = 'SET_START'
+export const SET_TIMER_ACTION = 'SET_TIMER_ACTION'
+export const SET_RESULT_LIST = 'SET_RESULT_LIST'

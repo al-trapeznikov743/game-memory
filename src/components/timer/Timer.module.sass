@@ -1,0 +1,47 @@
+.timer
+    display: grid
+    grid-area: timer
+    background-color: #ffffff
+    box-shadow: 0 0 1px 1px rgba(221, 221, 221, 1)
+    height: 100%
+    &__game
+        display: grid
+        grid-template-rows: 1fr 2fr
+        &_title
+            display: flex
+            align-items: center
+            justify-content: center
+            font-size: 20px
+        &_time
+            display: flex
+            align-items: center
+            justify-content: center
+            font-size: 25px
+            margin-bottom: 20px
+
+@media screen and (max-width: 768px)
+    .timer
+        &__game
+            &_title
+                font-size: 15px
+            &_time
+                font-size: 20px
+                margin-bottom: 10px
+
+@media screen and (max-width: 430px)
+    .timer
+        &__game
+            &_title
+                font-size: 15px
+            &_time
+                font-size: 16px
+                margin-bottom: 10px
+
+@media screen and (max-width: 260px)
+    .timer
+        &__game
+            &_title
+                font-size: 13px
+            &_time
+                font-size: 13px
+                margin-bottom: 10px
